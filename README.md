@@ -81,6 +81,11 @@ Key ideas:
 * Signal processing in biological systems
 
 ---
+## CV
+
+📄 Download CV  
+https://github.com/OrielBanne/oriel-banne-cv
+---
 
 ## Education
 
