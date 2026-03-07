@@ -84,7 +84,7 @@ Key ideas:
 
 ## Education
 
-MSc / BSc
+MSc Physics, Weizmann Institute of Science / BSc Physics, Tel Aviv University
 
 
 ---
@@ -95,6 +95,6 @@ GitHub
 https://github.com/OrielBanne
 
 LinkedIn
-(Add link)
+https://www.linkedin.com/in/orielbanne/
 
 ---
