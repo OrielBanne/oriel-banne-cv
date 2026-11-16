@@ -17,7 +17,7 @@ Senior data scientist with six years of applied deep learning on biomedical sign
 
 ## PROFESSIONAL EXPERIENCE
 ### Stealth-Mode Startup	2026 – Present
-### Founding CTO, Data Science Lead
+#### Founding CTO, Data Science Lead
 
 •	Developed a video-based neurodivergence screening algorithm that derives gaze, blink and head-pose dynamics (time series) from facial landmarks;
 •	Led the design and delivery of an AI-driven neurodivergent text assessment platform (TypeScript/React, SQLite, Gemini LLM): profiling model, composite scoring algorithm, longitudinal analytics, clinician-facing visualization and export tooling, and a self-contained Windows deployment.
@@ -29,14 +29,14 @@ Senior data scientist with six years of applied deep learning on biomedical sign
 •	Ongoing: a systematic trading research platform for S&P 500 equities with regime detection, Bayesian signal aggregation, a custom backtest engine and leakage-aware validation.
 
 ### GrayMatters Health	2021 – 2024
-### Algorithm Engineer
+#### Algorithm Engineer
 •	Designed and deployed EEG signal-processing pipelines that identify clean signal and reject artifacts, adopted in all research labs running new cohorts and in all treating clinics.
 •	Built automated spectral and statistical feature-extraction pipelines for large-scale neural-signal analysis, and led exploratory research on EEG 1/f (aperiodic) activity, showing that subtracting it from the total spectrum isolates the true periodic signal.
 •	Developed autoencoder-based representation-learning and predictive models for patient treatment-outcome forecasting.
 •	Proposed a change to how learning progress is measured in the product; the approach was adopted into the product’s learning-measurement logic.
 
 ### Intel Corporation	2007 – 2015, 2017 – 2020
-### Senior Engineer
+#### Senior Engineer
 •	Identified a tool part as the root cause of a yield and reliability limit and redesigned it; the manufacturer implemented the change across its customers. MTBF rose by 50%, and savings reached $2.5M a year.
 •	Improved production yield by 20% through root-cause analysis and process correction.
 •	Technical leader of one site (~15 engineers, ~60 technicians), mentoring ~8 engineers; led improvement and quality forums across three sites (Israel and US), setting technical direction.
